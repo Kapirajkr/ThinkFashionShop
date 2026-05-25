@@ -188,11 +188,6 @@ npm run dev
 
 ---
 
-## 📧 Contact
 
-> Have questions or suggestions?
-
-- ✉️ Email: `abhishekpratap21nov@gmail.com`
-- 🌐 Portfolio: https://react-portfolio-psi-virid.vercel.app/
 
 ---
